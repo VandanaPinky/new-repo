@@ -1,0 +1,60 @@
+ <div class="card ">
+        <h1 class="rahul">Rahul</h1>
+        <div class="center">
+            <p class="bule1"> Hello Rahul,How are you?</p>
+            <p class="bule2">Hi varakumar,iam good,how about you?</p>
+            <p class="bule1"> i'm fine i pusblished my website recently</p>
+            <p class="bule2">oh great varakumar!can you send me url </p>
+            <p class="bule1"> https://dfffjfjh.vcgh.hg</p>
+            <p class="bule2">awesome varakumar where did you learn</p>
+            <p class="bule1">nextwave ccbp 4.0 praogram</p>
+        </div>
+    </div>
+
+
+
+
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 460px;
+    width: 350px;
+
+}
+
+.rahul {
+    background-color: #323f4b;
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.bule1 {
+    background-color: #47a3f3;
+    text-align: right;
+    font-size: 15px;
+    color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 10px;
+}
+
+.bule2 {
+    background-color: #52606d;
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 10px;
+}
+
+.center {
+    padding: 5px;
+}
